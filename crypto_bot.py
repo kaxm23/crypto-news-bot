@@ -33,8 +33,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # API Configuration
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', "7805898799:AAHcK3dqIvrBoE3RyXHMIf53viURxSXFJzc")
-CRYPTOPANIC_API_KEY = os.getenv('CRYPTOPANIC_API_KEY', "6b428a28ee89a6a1faaf53ae6312eb46ed1f5eef")
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', "7805898799:TELEGRAM_TOKEN")
+CRYPTOPANIC_API_KEY = os.getenv('CRYPTOPANIC_API_KEY', "CRYPTOPANIC_API_KEY")
 CRYPTOPANIC_API_URL = "https://cryptopanic.com/api/v1/posts/"
 
 # Constants
