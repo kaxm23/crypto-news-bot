@@ -2,7 +2,7 @@
 
 A Telegram bot for tracking cryptocurrency prices and news, created on 2025-02-08.
 
-## Features
+## Features : 
 
 - Real-time cryptocurrency price tracking
 - Latest crypto news updates
@@ -12,12 +12,12 @@ A Telegram bot for tracking cryptocurrency prices and news, created on 2025-02-0
 - Automatic news updates
 - User activity logging
 
-## Requirements
+## Requirements : 
 
 - Python 3.8+
 - Required packages listed in `requirements.txt`
 
-## Installation
+## Installation : 
 
 1. Clone the repository:
 ```bash
